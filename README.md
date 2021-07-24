@@ -5,7 +5,7 @@
 **yuanchen8911/yuanchen8911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on could native computing and kubernetes: [contributions to kubernetes](https://k8s.devstats.cncf.io/d/66/developer-activity-counts-by-companies?orgId=1&var-period_name=Last%202%20years&var-metric=contributions&var-repogroup_name=All&var-repo_name=kubernetes%2Fkubernetes&var-country_name=All&var-companies=Apple).
+- 🔭 I’m currently working on could native computing and kubernetes: [kubernetes contributions](https://k8s.devstats.cncf.io/d/66/developer-activity-counts-by-companies?orgId=1&var-period_name=Last%202%20years&var-metric=contributions&var-repogroup_name=All&var-repo_name=kubernetes%2Fkubernetes&var-country_name=All&var-companies=Apple).
 - 💬 Ask me about kubernetes, cluster scheduling
 - 📫 How to reach me: https://www.linkedin.com/in/yuanchen/
 - 😄 Pronouns: he/him
@@ -13,3 +13,4 @@
    - Career path: R -> R&d -> r&D -> D; Research Scientist -> Ressearch Engineer -> Software Architect -> Software Engineer
     ![career path](career.jpg) 
   - [Research publications](https://scholar.google.com/citations?pli=1&authuser=1&user=4jfyJaoAAAAJ)
+  - [Granted Patents] (https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&f=S&l=50&d=PTXT&RS=%28IN%2FChen-Yuan+AND+%28AN%2FHewlett+OR+AN%2FMicro%29%29&Refine=Refine+Search&Query=IN%2FChen-Yuan+AND+%28AN%2FHewlett+OR+AN%2FMicro%29)
