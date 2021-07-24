@@ -9,8 +9,7 @@
 - 💬 Ask me about kubernetes, cluster scheduling
 - 📫 How to reach me: https://www.linkedin.com/in/yuanchen/
 - 😄 Pronouns: he/him
-- ⚡ Career path: R -> R&d -> r&D -> D
-    
-    Research Scientist -> Ressearch Engineer -> Software Architect -> Software Engineer
-    
-   ![career path](career.jpg) 
+- ⚡ Fun facts:
+   - Career path: R -> R&d -> r&D -> D; Research Scientist -> Ressearch Engineer -> Software Architect -> Software Engineer
+    ![career path](career.jpg) 
+  - [Research publications](https://scholar.google.com/citations?pli=1&authuser=1&user=4jfyJaoAAAAJ)
