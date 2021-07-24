@@ -7,12 +7,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on could native computing and kubernetes.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about kubernetes, cluster scheduling
 - 📫 How to reach me: https://www.linkedin.com/in/yuanchen/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
   - career path: R -> R&d -> r&D -> D
-    [career path]{file://career.jpg} 
+  
+    [career path](career.jpg) 
