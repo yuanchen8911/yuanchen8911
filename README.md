@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about kubernetes, cluster scheduling
 - 📫 How to reach me: https://www.linkedin.com/in/yuanchen/
 - 😄 Pronouns: he/him
-- ⚡ Fun facts: 
-  - my career: R -> R&d -> r&D -> D
+- ⚡ Fun fact: 
+  - career path: R -> R&d -> r&D -> D
+    [career path]{file://career.jpg} 
