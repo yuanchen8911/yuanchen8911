@@ -9,7 +9,7 @@
 - 💬 Ask me about kubernetes, cluster scheduling
 - 📫 How to reach me: https://www.linkedin.com/in/yuanchen/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: career path
+- ⚡ Career path
 
     **R -> R&d -> r&D -> D**
     
