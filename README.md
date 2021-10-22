@@ -11,4 +11,7 @@
    - `Research Scientist -> Ressearch Engineer -> Software Architect -> Software Engineer`     
    - [Research publications](https://scholar.google.com/citations?pli=1&authuser=1&user=4jfyJaoAAAAJ)
    - [Patents](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&f=S&l=50&d=PTXT&RS=%28IN%2FChen-Yuan+AND+%28AN%2FHewlett+OR+AN%2FMicro%29%29&Refine=Refine+Search&Query=IN%2FChen-Yuan+AND+%28AN%2FHewlett+OR+AN%2FMicro%29)
-- Contact: [LinkedIn page](https://www.linkedin.com/in/yuanchen/)
+- Contact: 
+    - [yuanchen@LinkedIn](https://www.linkedin.com/in/yuanchen/)
+    - [baseloaded@twitter](https://twitter.com/baseloaded)
+    - yuan_gt@WeChat
