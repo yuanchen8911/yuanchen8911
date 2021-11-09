@@ -5,7 +5,7 @@
 **yuanchen8911/yuanchen8911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- I’m a software engineer with Apple Cloud Services and working on could native computing and kubernetes: [kubernetes contributions](https://k8s.devstats.cncf.io/d/66/developer-activity-counts-by-companies?orgId=1&var-period_name=Last%202%20years&var-metric=contributions&var-repogroup_name=All&var-repo_name=kubernetes&var-country_name=All&var-companies=Apple%20Inc.), CKA and CKAD. I was a reseracher at Hewlett Packard Labs.
+- I’m a software engineer with Apple Cloud Services and working on could native computing and kubernetes: [kubernetes contributions](https://k8s.devstats.cncf.io/d/66/developer-activity-counts-by-companies?orgId=1&var-period_name=Last%202%20years&var-metric=contributions&var-repogroup_name=All&var-repo_name=kubernetes&var-country_name=All&var-companies=Apple%20Inc.), CKA and CKAD. I was a ex-reseracher at Hewlett Packard Labs.
 - Career path  
    - `R -> R&d -> r&D -> D`
    - `Research Scientist -> Ressearch Engineer -> Software Architect -> Software Engineer`     
