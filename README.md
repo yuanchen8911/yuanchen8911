@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me
 
 ![](https://github-readme-stats.vercel.app/api?username=yuanchen8911&theme=buefy&show_icons=true)
 <!--
