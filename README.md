@@ -16,4 +16,4 @@
     - [LinkedIn: @yuanchen](https://www.linkedin.com/in/yuanchen/)
     - [Twitter: @yuanchenbyte](https://twitter.com/yuanchenbyte)
     - WeChat(微信): @yuan_gt
-    - Weibo(微博):https://weibo.com/dryuanchen
+    - Weibo(微博): https://weibo.com/dryuanchen
